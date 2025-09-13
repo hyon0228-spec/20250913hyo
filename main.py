@@ -1,7 +1,4 @@
 import streamlit as st
-st.title('나의 첫 웹앱!')
-st.write('이걸 내가 만들었다고?!')
-import streamlit as st
 import random
 import textwrap
 import streamlit.components.v1 as components
